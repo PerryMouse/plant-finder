@@ -1,0 +1,33 @@
+1633535426401	geckodriver	INFO	Listening on 127.0.0.1:58648
+1633535429444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rivka\\AppData\\Local\\Temp\\rust_mozprofilex93JfH"
+1633535429675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rivka\\AppData\\Local\\Temp\\rust_mozprofilex93JfH\\search.json.mozlz4", (void 0)))
+1633535431676	Marionette	INFO	Listening on port 58658
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1633535432105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633535608369	Marionette	INFO	Stopped listening on port 58658
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rivka\\AppData\\Local\\Temp\\rust_mozprofileV45Zxe\\search.json.mozlz4", (void 0)))
+1633535469348	Marionette	INFO	Listening on port 58776
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1633535469721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633535606375	Marionette	INFO	Stopped listening on port 58776
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633615885435	geckodriver	INFO	Listening on 127.0.0.1:56285
+1633615888456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\rivka\\AppData\\Local\\Temp\\rust_mozprofilebxGvUw"
+1633615888692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rivka\\AppData\\Local\\Temp\\rust_mozprofilebxGvUw\\search.json.mozlz4", (void 0)))
+1633615890770	Marionette	INFO	Listening on port 56296
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1633615891121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633622160527	Marionette	INFO	Stopped listening on port 56296
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
